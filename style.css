@@ -1,0 +1,25 @@
+h3{
+    background-color:burlywood;
+}
+h1{
+    color:antiquewhite;font-size: xx-large;
+}
+ul{
+    color: bisque;
+}
+body{
+    background-color: darkslategrey;
+}
+tr{ color: bisque;
+}
+p{
+    color:deepskyblue
+}
+table{ border:3 px; border-style: groove;}
+li:hover{
+    color:palevioletred
+}
+li:active::after{
+    content:"My Favorite!" ;
+    color:burlywood
+}
